@@ -1,0 +1,37 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    /* 009a00 */
+}
+
+.logo-principal {
+    width: 130px;
+}
+
+.logo-alternativo {
+    max-height: 35px;
+    width: auto;
+}
+
+.logo-simple {
+    width: 60px;
+}
+
+footer {
+    background-color: #2d414c;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+
+.titulo {
+    width: 110px;
+
+}
+
+.Introduccion {
+    text-align: center;
+}
+
+.navbar {
+    background-color: #2d414c;
+}
