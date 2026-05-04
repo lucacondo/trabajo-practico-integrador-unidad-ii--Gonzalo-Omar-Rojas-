@@ -1,7 +1,6 @@
 * {
     margin: 0%;
     padding: 0%;
-    /* 009a00 */
 }
 
 .logo-principal {
@@ -34,4 +33,11 @@ footer {
 
 .navbar {
     background-color: #2d414c;
+}
+
+.btn-personalizado {
+    background-color: #147414;
+    color: white;
+    border-radius: 10px;
+    padding: 10px;
 }
